@@ -36,7 +36,7 @@ The dashboard is built using **307,974 road accident records** and shows trends 
 
 ## Dashboard Preview
 
-![Road Accident Analysis Dashboard](images/dashboard.png)
+!Road Accident Analysis Dashboard
 <img width="1276" height="744" alt="Screenshot 2026-01-19 000712" src="https://github.com/user-attachments/assets/dcca80ab-bffa-49f8-84e2-0afec02c2abc" />
 
 ---
