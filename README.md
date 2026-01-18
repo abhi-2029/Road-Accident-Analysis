@@ -38,8 +38,6 @@ The dashboard is built using **307,974 road accident records** and shows trends 
 
 ![Road Accident Analysis Dashboard](images/dashboard.png)
 
-> 📌 Create an `images` folder and upload the dashboard screenshot as `dashboard.png`.
-
 ---
 
 ## Files in This Repository
