@@ -1,68 +1,59 @@
-# Road Accident Analysis Dashboard (Power BI)
+# 🚦 Road Accident Analysis Dashboard (Power BI)
 
-## Project Overview
-This project focuses on analyzing road accident data using Power BI.  
-The dashboard helps understand accident patterns based on location, severity, vehicle type, time, and weather conditions.
-
-The dataset contains **307,974 road accident records**, which were cleaned, processed, and visualized to extract meaningful insights.
+## Overview
+This project analyzes road accident data using Power BI to understand accident patterns.  
+The dashboard is built using **307,974 road accident records** and shows trends based on location, severity, time, vehicle type, and weather condition.
 
 ---
 
-## Dataset Details
+## Dataset Information
 - Total Records: **307,974**
-- Data Source: Road accident dataset (Excel)
-- Data Fields: **20+ columns**
-- Key Attributes:
+- File Format: Excel
+- Columns Used: **20+**
+- Key Fields:
   - Location
   - Accident Severity
   - Vehicle Type
-  - Time and Date
+  - Date & Time
   - Weather Condition
 
 ---
 
 ## Tools Used
-- Power BI
-- Power Query
-- Microsoft Excel
+- Power BI  
+- Power Query  
+- Microsoft Excel  
 
 ---
 
-## Key Work Done
-- Cleaned and transformed raw accident data using Power Query.
-- Structured the dataset for analysis across multiple attributes.
-- Built interactive visuals and filters for data exploration.
-- Analyzed accident trends based on:
-  - Location
-  - Severity
-  - Vehicle Type
-  - Time
-  - Weather condition
+## Work Done
+- Cleaned and transformed accident data using Power Query.
+- Structured **20+ data fields** for analysis.
+- Analyzed accident trends across **5 factors**.
 - Identified high-risk zones and peak accident time periods.
 
 ---
 
-## Dashboard Features
-- Accident distribution by severity
-- Location-wise accident analysis
-- Time-based accident trends
-- Weather condition impact analysis
-- Interactive filters for detailed views
+## Dashboard Preview
+
+![Road Accident Analysis Dashboard](images/dashboard.png)
+
+> 📌 Create an `images` folder and upload the dashboard screenshot as `dashboard.png`.
 
 ---
 
-## Files Included
-- `Road Accident Data.xlsx` – Raw dataset
-- `Road_Accident_Analysis.pbix` – Power BI dashboard file
+## Files in This Repository
+- `Road Accident Data.xlsx` – Dataset  
+- `Road_Accident_Analysis.pbix` – Power BI dashboard  
+- `images/dashboard.png` – Dashboard screenshot  
 
 ---
 
 ## Conclusion
-This dashboard provides a clear view of road accident patterns and helps identify areas and time periods with higher accident occurrences.  
-The project demonstrates data cleaning, analysis, and visualization using Power BI.
+This dashboard provides a clear view of road accident patterns and helps identify areas and time ranges with higher accident frequency.
 
 ---
 
 ## Author
-Abhishek Ranjan
-B.Tech CSE 
+**Abhishek Ranjan**  
+B.Tech CSE | 2026 Batch
